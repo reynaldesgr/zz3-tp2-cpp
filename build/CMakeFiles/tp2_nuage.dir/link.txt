@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -pedantic  CMakeFiles/tp2_nuage.dir/src/main_nuage.cpp.o CMakeFiles/common.dir/src/cartesien.cpp.o CMakeFiles/common.dir/src/polaire.cpp.o -o tp2_nuage 
